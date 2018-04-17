@@ -1,3 +1,5 @@
 # enjincc
-Developer ENJ
-# pixonhuman1
+Hi Humans:
+
+enjin.cc here, thank you
+my new project again...
